@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbar_color">#20abfe</color>
+    <color name="black">#434343</color>
+    <color name="background">#f0f0f0</color>
+    <color name="textColor">#333333</color>
+    <color name="diver">#cccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="gray_text">#999999</color>
+    <color name="second_text">#666666</color>
+    <color name="red">#f25168</color>
+    <color name="green">#55F249</color>
+    <color name="transparent">#00000000</color>
+    <color name="google_red">#FFC93437</color>
+    <color name="google_blue">#FF375BF1</color>
+    <color name="google_yellow">#FFF7D23E</color>
+    <color name="google_green">#FF34A350</color>
+    <color name="ecg_black">#323433</color>
+</resources>
